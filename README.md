@@ -1,5 +1,5 @@
 # Time Series Analysis Project 📈
-🎯 ## Objective
+🎯 # Objective
 
 To analyze and model time-series data in order to forecast future values and understand underlying trends & seasonality.
 
