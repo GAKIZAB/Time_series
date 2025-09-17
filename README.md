@@ -1,29 +1,26 @@
 # Time Series Analysis Project 📈
-## 🎯 Objective
+##🎯 Objective
+To analyze and model time-series data in order to forecast future values and capture underlying trends & seasonality. The project focuses on comparing classical statistical modeling (SARIMA) with deep learning approaches (LSTM).
 
-To analyze and model time-series data in order to forecast future values and understand underlying trends & seasonality.
+##🔎 Methods Used
 
-🔎 Methods Used
+- Exploration & Preprocessing: checking stationarity, handling missing values, scaling/normalization.
 
-- Exploration & Preprocessing : checking stationarity, handling missing values, scaling/normalization.
+- Decomposition: splitting the series into trend, seasonality, and residual components.
 
-- Decomposition : splitting the series into trend, seasonality, and residual components.
+- Models Compared:
 
-- Models Applied :
-
-  - ARIMA / SARIMA for modeling based on autoregression, integration, and moving average
+  - SARIMA for statistical time-series modeling
   
-  - Exponential Smoothing (Holt-Winters) to capture level, trend, and seasonality
-  
-  - Possibly other models (e.g. Prophet or others) depending on dataset
+  - LSTM for deep learning-based forecasting
 
-## 🧪 Testing & Evaluation
+##🧪 Testing & Evaluation
 
-- Splitting data into training & test sets for backtesting
+- Train/test split with backtesting
 
-- Using metrics such as MAPE / RMSE / MAE to evaluate forecast accuracy
+- Metrics: MAPE, RMSE, MAE to evaluate forecast accuracy
 
-- Visualization of actual vs forecasted values to visually assess model performance
+- Visualization of actual vs predicted values for direct performance comparison
 
 <img width="1112" height="741" alt="image" src="https://github.com/user-attachments/assets/46e00ffd-bb7b-4629-b8a1-9ce870314a59" />
 
