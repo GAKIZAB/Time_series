@@ -5,25 +5,25 @@ To analyze and model time-series data in order to forecast future values and und
 
 🔎 Methods Used
 
-Exploration & Preprocessing : checking stationarity, handling missing values, scaling/normalization.
+- Exploration & Preprocessing : checking stationarity, handling missing values, scaling/normalization.
 
-Decomposition : splitting the series into trend, seasonality, and residual components.
+- Decomposition : splitting the series into trend, seasonality, and residual components.
 
-Models Applied :
+- Models Applied :
 
-ARIMA / SARIMA for modeling based on autoregression, integration, and moving average
-
-Exponential Smoothing (Holt-Winters) to capture level, trend, and seasonality
-
-Possibly other models (e.g. Prophet or others) depending on dataset
+  - ARIMA / SARIMA for modeling based on autoregression, integration, and moving average
+  
+  - Exponential Smoothing (Holt-Winters) to capture level, trend, and seasonality
+  
+  - Possibly other models (e.g. Prophet or others) depending on dataset
 
 🧪 Testing & Evaluation
 
-Splitting data into training & test sets for backtesting
+- Splitting data into training & test sets for backtesting
 
-Using metrics such as MAPE / RMSE / MAE to evaluate forecast accuracy
+- Using metrics such as MAPE / RMSE / MAE to evaluate forecast accuracy
 
-Visualization of actual vs forecasted values to visually assess model performance
+- Visualization of actual vs forecasted values to visually assess model performance
 
 <img width="1112" height="741" alt="image" src="https://github.com/user-attachments/assets/46e00ffd-bb7b-4629-b8a1-9ce870314a59" />
 
