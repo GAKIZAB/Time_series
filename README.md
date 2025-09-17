@@ -1,5 +1,5 @@
 # Time Series Analysis Project 📈
-🎯 # Objective
+## 🎯 Objective
 
 To analyze and model time-series data in order to forecast future values and understand underlying trends & seasonality.
 
@@ -17,7 +17,7 @@ To analyze and model time-series data in order to forecast future values and und
   
   - Possibly other models (e.g. Prophet or others) depending on dataset
 
-🧪 ## Testing & Evaluation
+## 🧪 Testing & Evaluation
 
 - Splitting data into training & test sets for backtesting
 
