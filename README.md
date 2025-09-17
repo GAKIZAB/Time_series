@@ -1,8 +1,8 @@
 # Time Series Analysis Project 📈
-##🎯 Objective
+## 🎯 Objective
 To analyze and model time-series data in order to forecast future values and capture underlying trends & seasonality. The project focuses on comparing classical statistical modeling (SARIMA) with deep learning approaches (LSTM).
 
-##🔎 Methods Used
+## 🔎 Methods Used
 
 - Exploration & Preprocessing: checking stationarity, handling missing values, scaling/normalization.
 
@@ -14,7 +14,7 @@ To analyze and model time-series data in order to forecast future values and cap
   
   - LSTM for deep learning-based forecasting
 
-##🧪 Testing & Evaluation
+## 🧪 Testing & Evaluation
 
 - Train/test split with backtesting
 
